@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Dyonne Maxime D. Macalino - Dyonne
 Marjorie Lua - Marj
+=======
+Dyonne Maxime D. Macalino
+>>>>>>> parent of fbf5433... added nickname
